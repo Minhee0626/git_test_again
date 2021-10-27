@@ -4,5 +4,13 @@ import numpy as np
 ## second written at github
 x +{1, 2, 3, 4}
 
-## Third written at local
-y = np.exp(x)
+
+
+
+=======
+## Third written at github
+
+## Fourth written at local 
+
+y = np.log(x)
+
